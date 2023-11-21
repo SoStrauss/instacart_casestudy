@@ -1,8 +1,5 @@
 title: Instacart Casestudy
-logo: 
-description: 
-  Sophie Strauß
-  Data Analyst & Psychologist
-  Based in Berlin, open to commute & work remote
+logo:  /assets/img/instacart_logo.png
+#description
 show_downloads: true
 theme: jekyll-theme-minimal
