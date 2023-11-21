@@ -1,8 +1,5 @@
 # Casestudy: Instacart Groceries Basket Analysis <img width="36" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/da4479c4-15da-4e94-afd5-3086e9ae64a8">
 
-<img width="142" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/1ed69e27-a20b-4341-965a-3b5756381e45">
-
-
 ## Project Overview
 An online grocery store demands an initial data and exploratory analysis to uncover information about sales patterns and suggest strategies for better customer segmentation
 
