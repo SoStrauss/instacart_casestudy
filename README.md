@@ -1,5 +1,3 @@
-theme: jekyll/theme/minimal
-
 # Casestudy: Instacart Groceries Basket Analysis <img width="36" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/da4479c4-15da-4e94-afd5-3086e9ae64a8">
 
 <img width="142" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/1ed69e27-a20b-4341-965a-3b5756381e45">
@@ -11,7 +9,8 @@ An online grocery store demands an initial data and exploratory analysis to unco
 **Purpose & Context:**
 - To provide data-driven, business-ready recommendations and solutions
 - To explore the possibilities and challenges of coding with Python
-- To become acquainted with Jupyter Notebook and important business standard libraries <img width="36" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/3f6c604b-c745-4d29-90b9-32b4c1fee0f9">
+- To become acquainted with Jupyter Notebook and important business standard libraries
+<img width="36" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/3f6c604b-c745-4d29-90b9-32b4c1fee0f9">
 
 ## What was the aim?
 
