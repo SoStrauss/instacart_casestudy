@@ -10,6 +10,7 @@ An online grocery store demands an initial data and exploratory analysis to unco
 - To provide data-driven, business-ready recommendations and solutions
 - To explore the possibilities and challenges of coding with Python
 - To become acquainted with Jupyter Notebook and important business standard libraries
+  
 <img width="36" alt="image" src="https://github.com/SoStrauss/SoStrauss.github.io/assets/148326046/3f6c604b-c745-4d29-90b9-32b4c1fee0f9">
 
 ## What was the aim?
